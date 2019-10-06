@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Domine&display=swap');
+
+.greeting{
+position: relative;
+height: 1350px;
+background: #5A5353;
+}
+
+.pic {
+    position: absolute;
+    top:120px;
+    left:110px;
+    width: 260px;
+    height: 260px;
+}
+
+.g1{/* “ Hi there! Thanks so much for coming by today. */
+
+    position: absolute;
+    width: 605px;
+    height: 348px;
+    left: 600px;
+    top: 190px;
+    
+    font-family: Abril Fatface, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 54px;
+    
+    color:#FDE4E4;}
+
+.g2{
+    position: absolute;
+    background-position-x: 0%;
+    width: 605px;
+    height: 348px;
+    left: 600px;
+    top: 340px;
+
+    font-family: Domine, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 21px;
+    color:#FDE4E4;
+}

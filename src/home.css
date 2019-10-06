@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+.home {
+  background: #FDE4E4;
+  position: relative;
+  font-size: 100px;
+}
+
+.hi {
+  /* HI! */
+  position: absolute;
+  width: 417px;
+  height: 181px;
+  left: calc(50% - 417px/2 - 8.5px);
+  top: calc(50% - 181px/2 - 37.5px);
+  font-family: Abril Fatface;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 150%;
+  line-height: 108px;
+  text-align: center;
+  color: #494444;
+
+}
+
+.rest {
+  /* WELCOME TO ELENA’S LITTLE PLACE ON THE WEB */
+  position: absolute;
+  width: 417px;
+  height: 181px;
+  left: calc(50% - 417px/2 - 8.5px);
+  top: calc(50% - 90px/2 - 37.5px);
+
+  font-family: Abril Fatface;
+  font-style: normal;
+  font-weight: normal;
+  font-size: small;
+  line-height: 96px;
+  text-align: center;
+
+  color: #494444;
+
+}
+
+
